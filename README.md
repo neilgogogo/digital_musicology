@@ -39,7 +39,7 @@ http://www.kunstderfuge.com/beethoven.htm
 
 ○ Which methods are you planning to use? 
 
-We need to sort Beethoven's works according to the timeline, and analyze the distribution and transformation of tones, timbres, and noses in different timeline works.
+We need to sort Beethoven's works according to the timeline, and analyze the distribution and transformation of different nodes, node combination, and Chords in different timeline works.
 
 ○ How are they related to the research question? 
 
