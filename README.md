@@ -24,15 +24,17 @@ We have find some information on the Wikipedia that after deafness, Beethoven te
  
 ○ What is the concrete focus of your project? 
 
+We plan to focus on the major differences between the music Beethoven made before and after his deafness in the view of various music materials that taught in class. 
+
 ○ Which musically relevant concepts do you use or study? 
 
-○ How can they be operationalized? 
-
+1) We’ll start from notes and analyze some statistics criterions for music in both periods. For example, we assume that pitches should be the most different material after the deafness because of human perception. 
+2) Note combinations. Some notes can be far more frequently used than others, we think Beethoven might borrow some combinations from his previous works to replicate the wanted atmosphere. 
+3) Chords and the progression of chords. We wonder how the chords cooperate with each other and the progressive relationships among multiple chords.
 
 ○ Which datasets can help you answer your research question? 
 
-
-○ Do they already exist or do you need to create / transform them? 
+http://www.kunstderfuge.com/beethoven.htm
 
 
 ## Methods
