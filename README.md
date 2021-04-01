@@ -49,6 +49,9 @@ By analyzing the changes in the distribution of Beethoven’s works in different
 
 ○ What is the state-of-the-art in relation to your question? Name at least 3 relevant publications. 
 
+Signal Processing for Music Analysis，2011，Meinard Müller, Member, IEEE, Daniel P. W. Ellis, Senior Member, IEEE, Anssi Klapuri, Member, IEEE, and
+Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR11-spmus.pdf
+
 ○ Which issues are not yet addressed that your project supplements?
  
 ## Two more things 
