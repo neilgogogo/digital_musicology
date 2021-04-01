@@ -68,4 +68,4 @@ I analyzed the chords of 1300 popular songs for patterns. This is what I found, 
 
 ○ You could already have a look into datasets suitable for you project
 
-We are going to use Beethoven’s midi data to do the data analysis.
+We are going to use Beethoven’s midi data to do the data analysis http://www.kunstderfuge.com/beethoven.htm.
