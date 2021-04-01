@@ -52,6 +52,8 @@ By analyzing the changes in the distribution of Beethoven’s works in different
 Signal Processing for Music Analysis，2011，Meinard Müller, Member, IEEE, Daniel P. W. Ellis, Senior Member, IEEE, Anssi Klapuri, Member, IEEE, and
 Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR11-spmus.pdf
 
+Bach’s favorite note, 2020, Dimitris Manolidis, https://towardsdatascience.com/bachs-favorite-note-b0542ba4f8f5
+
 ○ Which issues are not yet addressed that your project supplements?
  
 ## Two more things 
