@@ -56,6 +56,10 @@ Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR1
 
 Analyzing Musical Structure and Performance—A Statistical Approach, 1999, Jan Beran and Guerino Mazzola, Statistical Science, Vol. 14, No. 1, 47–79. https://projecteuclid.org/download/pdf_1/euclid.ss/1009211806
 
+I analyzed the chords of 1300 popular songs for patterns. This is what I found, 2012, Popular Song Statistics
+https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/
+
+
 
 ○ Which issues are not yet addressed that your project supplements?
  
