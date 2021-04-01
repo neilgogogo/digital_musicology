@@ -43,7 +43,7 @@ We need to sort Beethoven's works according to the timeline, and analyze the dis
 
 ○ How are they related to the research question? 
 
-By analyzing the changes in the distribution of Beethoven’s works in different timelines, and combining with the specific period of Beethoven’s deafness, we can see whether Beethoven’s work style has changed with the development of Beethoven’s deafness, and whether it will appear as mentioned in our hypothesis. The change.
+By analyzing the changes in the distribution of Beethoven’s works in different timelines, and combining with the specific period of Beethoven’s deafness, we can see whether Beethoven’s work style has changed with the development of Beethoven’s deafness, and whether it will appear the change as mentioned in our hypothesis.
 
 ## Literature 
 
