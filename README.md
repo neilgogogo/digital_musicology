@@ -52,7 +52,8 @@ By analyzing the changes in the distribution of Beethoven’s works in different
 Signal Processing for Music Analysis，2011，Meinard Müller, Member, IEEE, Daniel P. W. Ellis, Senior Member, IEEE, Anssi Klapuri, Member, IEEE, and
 Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR11-spmus.pdf
 
-Analyzing Musical Structure and Performance—A Statistical Approach, 1999, Jan Beran and Guerino Mazzola, Statistical Science, Vol. 14, No. 1, 47–79. file:///Users/lihangqian/Downloads/1009211806.pdf
+Analyzing Musical Structure and Performance—A Statistical Approach, 1999, Jan Beran and Guerino Mazzola, Statistical Science, Vol. 14, No. 1, 47–79. https://projecteuclid.org/download/pdf_1/euclid.ss/1009211806
+
 
 ○ Which issues are not yet addressed that your project supplements?
  
