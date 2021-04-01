@@ -1,4 +1,4 @@
-# digital_musicology
+### digital_musicology
 
 milestone 0
 For milestone 0, you have to write a short project proposal (ca. 500-700 words) that answers the following questions:
