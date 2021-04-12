@@ -6,7 +6,7 @@
 
 We want to study whether there is an obvious difference between the music Beethoven made before and after his deafness? And how did his music change during the process of his gradual deafness? 
 
-Beethoven (1770-1827) first mentioned his hearing loss in a letter to the physician Franz Wegeler dated 29 June 1801: “For the last three years, my hearing has grown steadily weaker . . . I can give you some idea of this peculiar deafness when I must tell you that in the theatre I have to get very close to the orchestra to understand the performers and that from a distance I do not hear the high notes of the instruments and the singers’ voices. . . Sometimes too I hardly hear people who speak softly. The sound I can hear is true, but not the words. And yet if anyone shouts I can’t bear it.” (Saccenti, 2011)
+Beethoven (1770-1827) first mentioned hearing loss in a letter to Dr. Franz Wegler dated June 29, 1801: "In the past three years, my hearing has been gradually weaker. I can give you some idea of this peculiar deafness when I must tell you that in the theatre I have to get very close to the orchestra to understand the performers and that from a distance I do not hear the high notes of the instruments and the singers’ voices. . .Sometimes too I hardly hear people who speak softly. The sound I can hear is true, but not the words. And yet if anyone shouts I can’t bear it.” (Saccenti, 2011). The following is more detailed information about his deafness: the left ear was affected first, and he reported (bilateral) tinnitus, and Poor speech discrimination is associated with high-pitched hearing loss and loud recruitment. Stevens KM reports that people had to shout to make themselves understood (1970). In 1818, Beethoven began to communicate using notebooks. There was no report that he could still understand oral conversations after 1825, so we assume his deafness was almost complete by then (Ealy GT, 1994).
 
 ○ What is the larger context of your project? 
 
@@ -72,5 +72,6 @@ We are going to use Beethoven’s midi data to do the data analysis http://www.k
 ## References
 
  - Edoardo Saccenti. (2011). Beethoven’s deafness and his three styles. British Medical Journal. BMJ 2011;343:d7589 doi: 10.1136/bmj.d7589.
- - 
+ - Stevens KM, Hemenway WG. (1970). Beethoven’s deafness. JAMA 1970;213:434.
+ - Ealy GT. (1994). Of ear trumpets and a resonance plate: early hearing aids and Beethoven’s hearing perception. 19th-Century Music 17:262-73.
 
