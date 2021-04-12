@@ -73,4 +73,6 @@ We are going to use Beethoven’s midi data to do the data analysis http://www.k
  - Stevens KM, Hemenway WG. (1970). Beethoven’s deafness. JAMA 1970;213:434.
  - Ealy GT. (1994). Of ear trumpets and a resonance plate: early hearing aids and Beethoven’s hearing perception. 19th-Century Music 17:262-73.
  - Von Lenz W. (2010). Beethoven et ses trois styles. Nabu Press.
+ - William S. Newman. (1982). Beethoven's Fingerings as Interpretive Clues. University of California Press
+
 
