@@ -10,7 +10,7 @@ Beethoven (1770-1827) first mentioned hearing loss in a letter to Dr. Franz Wegl
 
 ○ What is the larger context of your project? 
 
-Beethoven’ s music composing is always divided into 3 or 4 stages. And in these two division methods, it is widely accepted that there was a style changing process when he lost the ability of hearing. And realising the fact is always considered as a milestone between the second and third stage (regarding the 4 stages division method).
+Beethoven’ s music composing is always divided into 3 stages (Von Lenz W, 2010). And in these two division methods, it is widely accepted that there was a style changing process when he lost the ability of hearing. And realising the fact is always considered as a milestone between the second and third stage (regarding the 4 stages division method).
 
 ○ Why is it interesting (for you)? 
 
@@ -74,4 +74,5 @@ We are going to use Beethoven’s midi data to do the data analysis http://www.k
  - Edoardo Saccenti. (2011). Beethoven’s deafness and his three styles. British Medical Journal. BMJ 2011;343:d7589 doi: 10.1136/bmj.d7589.
  - Stevens KM, Hemenway WG. (1970). Beethoven’s deafness. JAMA 1970;213:434.
  - Ealy GT. (1994). Of ear trumpets and a resonance plate: early hearing aids and Beethoven’s hearing perception. 19th-Century Music 17:262-73.
+ - Von Lenz W. (2010). Beethoven et ses trois styles. Nabu Press.
 
