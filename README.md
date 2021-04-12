@@ -8,15 +8,16 @@ Beethoven (1770-1827) first mentioned hearing loss in a letter to Dr. Franz Wegl
 
 ○ What is the larger context of your project? 
 
-Beethoven’ s music composing is always divided into 3 stages (Von Lenz W, 2010). And in these two division methods, it is widely accepted that there was a style changing process when he lost the ability of hearing. And realising the fact is always considered as a milestone between the second and third stage (regarding the 4 stages division method).
+Based on the previous discussion, Beethoven’ s music composing is often divided into 3 stages (Von Lenz W, 2010). The period of Beethoven's composing (the so-called three styles) corresponds to the developmental stage of his deafness (Saccenti, 2011). Although the correlation does not imply causality, it could still be reliable remarks for dividing his career life. So we will only use his deafness as milestones to mark the boundaries of his creative career. 
 
 ○ Why is it interesting (for you)? 
 
-Beethoven is one of the most famous musicians all over the world. Hearing ability is very important to a musician because music always interacts with people through ears. Musicians need to listen to their music to appreciate it and think about how to modify and improve it. So we wonder how  Beethoven adjusted his composing style to his increasingly weak ability of hearing. Because of our limited background on music appreciation, we would like to focus more on technical aspects and to base on some data analysis methods to find out the difference.
+Beethoven is one of the most famous musicians all over the world. In most cases, musicians need to listen to their music to appreciate it and think about how to improve it. But as for Beethoven, he was hearing the music he composed internally and feeling it with his fingerings as interpretive clues after deafness (Newman, 1982). So this could be another perspective to distinguish composition styles in different periods. We wonder how Beethoven’s composing style changed with his increasingly weak ability of hearing. Also, we would like to focus more on technical aspects and to base on some data analysis methods to find out the difference, rather than the causality between his deafness and composition styles.
+
 
 ○ What are possible outcomes?
 
-We have find some information on the Wikipedia that after deafness, Beethoven tended to use low or medium notes in his work to better understand his work at the initial phase of realising he is losing the ability of hearing. But when he became totally deaf, he no longer limited his use of notes any more. He did not try to compose music he can listen to. He gradually returned to his initial composing style.
+From Saccenti’s study, we know that after deafness, Beethoven tended to use low or medium notes in his work (2011), which is possible to  better understand his work at the initial phase of realising he is losing the ability of hearing. We also hypothesize that when he became totally deaf after 1825, he no longer limited his use of notes any more. He did not try to compose music he can listen to. He gradually returned to his initial composing style.
 
 ## Concepts and Data 
  
@@ -26,9 +27,12 @@ We plan to focus on the major differences between the music Beethoven made befor
 
 ○ Which musically relevant concepts do you use or study? 
 
-1) We’ll start from notes and analyze some statistics criterions for music in both periods. For example, we assume that pitches should be the most different material after the deafness because of human perception. 
-2) Note combinations. Some notes can be far more frequently used than others, we think Beethoven might borrow some combinations from his previous works to replicate the wanted atmosphere. 
-3) Chords and the progression of chords. We wonder how the chords cooperate with each other and the progressive relationships among multiple chords.
+1)We’ll start from notes and analyze some other statistics criterions for music. In these three periods, we’ll compare the frequencies of different notes to find out the notes that were used most and used least, analyzing if the distribution of notes over periods changed a lot. Besides, we assume that pitches should be the most different material after Bethoveen’s deafness because of human perception. Quantitative analysis for pitch classes should also be a significant indicator for the Bethoveen’s style among these periods.
+ 
+2)Chord distribution. We plan to regard notes in different octaves as the same note to reduce the scale of chord amount. In this way, some chords can be used very rarely, while some can be far more frequently used than others. We are going to figure out whether there are high density regions in the chords distribution. If there are, we will dive into different periods and look into the dissonance and consonance of high-frequent chords.
+ 
+3)The combinations of chords. We expect to analyze the chord progression using n-grams only from the view of pitch-class sets. Similarly, to reduce the complexity of this question, we will only focus on high-frequent progressions in 2-grams and 3-grams characterize the styles in different periods.
+We also think Beethoven might borrow some chords and chord permutations from his previous works to replicate the expected effects. That is to say, did he still continuously use new materials or tend to borrow them from previous work? 
 
 ○ Which datasets can help you answer your research question? 
 
@@ -39,29 +43,31 @@ http://www.kunstderfuge.com/beethoven.htm
 
 ○ Which methods are you planning to use? 
 
-We need to sort Beethoven's works according to the timeline, and analyze the distribution and transformation of different nodes, node combination, and Chords in different timeline works.
+We need to sort Beethoven's works according to the timeline, and analyze the distribution and transformation of different nodes and pitches, chord distribution, and chord progression in different timeline works. 
+For the first two questions, quantitative statistics can be enough to draw valid conclusions. As for the chord progression, we are planning to adopt the n-grams method. 
+
 
 ○ How are they related to the research question? 
 
-By analyzing the changes in the distribution of Beethoven’s works in different timelines, and combining with the specific period of Beethoven’s deafness, we can see whether Beethoven’s work style has changed with the development of Beethoven’s deafness, and whether it will appear the change as mentioned in our hypothesis.
+We divide Beethoven’s creative career into three different periods according to the development of his deafness, and try to characterize the transformations of his composition style by some basic music materials. By analyzing the changes in the distribution of Beethoven’s works in different periods, we can see whether Beethoven’s work style has changed and whether it will confirm the assumptions as mentioned in previous sections. 
+Because the causations of such transformations could be tangled, we only use his deafness as milestones to mark the boundaries of his creative career. As for the correlation between his deafness and style changes, it can require further experiments and analysis. 
+
 
 ## Literature 
 
 ○ What is the state-of-the-art in relation to your question? Name at least 3 relevant publications. 
 
-Signal Processing for Music Analysis，2011，Meinard Müller, Member, IEEE, Daniel P. W. Ellis, Senior Member, IEEE, Anssi Klapuri, Member, IEEE, and
-Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR11-spmus.pdf
-
+Signal Processing for Music Analysis，2011，Meinard Müller, Member, IEEE, Daniel P. W. Ellis, Senior Member, IEEE, Anssi Klapuri, Member, IEEE, and Gaël Richard, Senior Member, IEEE https://www.ee.columbia.edu/~dpwe/pubs/MuEKR11-spmus.pdf
 Analyzing Musical Structure and Performance—A Statistical Approach, 1999, Jan Beran and Guerino Mazzola, Statistical Science, Vol. 14, No. 1, 47–79. https://projecteuclid.org/download/pdf_1/euclid.ss/1009211806
-
 I analyzed the chords of 1300 popular songs for patterns. This is what I found, 2012, Popular Song Statistics. https://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/
+
 
  
 ## Two more things 
 
 ○ For which part of your project do you need input and/or support from our side?
 
-Are there any new dimensions for comparing Beethoven's music style before and after his illness?
+Not yet.
 
 ○ You could already have a look into datasets suitable for you project
 
