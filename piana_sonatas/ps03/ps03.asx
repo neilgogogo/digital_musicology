@@ -1,0 +1,29 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーベン ピアノソナタ第３番ハ長調 作品２－３</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>第１楽章</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="ps03_01.mid"/>
+</entry>
+<entry>
+  <title>第２楽章</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="ps03_02.mid"/>
+</entry>
+<entry>
+  <title>第３楽章</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="ps03_03.mid"/>
+</entry>
+<entry>
+  <title>第４楽章</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="ps03_04.mid"/>
+</entry>
+</asx>
