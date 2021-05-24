@@ -2,13 +2,22 @@
 
 🎵💃🎵💃🎵💃🎵💃🎵💃🎵💃
 
+## Update 2021/5/24
+
+1. We drop the years that have less than 1000 slices. So 1783, 1789, and1811 are omitted. But we think the division is very rough, so we still use consecutive plots. 
+2. Add introduction for music21 and the `isConsonant()` method.
+3. A4 now is 440Hz.
+6. Delete Vieira et al. 2012
+7. As for other instruments, we find that they all have much less pieces than piano. So we do not include them. 
+8. We compare different composers' curves for new chords and find that Beethoven is not unique. So we reject the previous finding. Thank you for your advice.  
+
 ## Introduction
 
 Beethoven, one of the most admired and talented composers in the history of Western music, wrote countless masterpieces even he was affected by ear disease, which started from about 1801 and led to his deafness in 1818. Although musicians and historians usually divided Beethoven's composition styles into three periods and have characterized them with prolific theories and research, it is still controversial about the relation between style changes and Beethoven's ear disease. The composition habits and styles can be affected by many factors and it is almost impossible to inspect them directly. 
 
 From medical perspectives, some researchers believe that the composer tended to use higher tones to seek feedback more easily because it was recorded that Beethoven utilized some mechanical tools to assist his hearing (Saccenti, Smilde and Saris, 2011). On the contrary, some pointed out they did not find evidence that demonstrated the progressive increase or decrease of the use of high tones.
 
-To examine the hypothesis that whether deafness had an impact on Beethoven's styles, we start from a perspective of composition raw materials, namely the basic properties and distributions of pitches and chords, trying to find cogent evidence for or against it. We considered pitches as the principal materials because humans are more sensitive to higher pitches. To be more specific, if we assume that the deafness did correlate with styles, then the pitches are the direct but a little superficial criterion. 
+To examine the hypothesis that whether deafness had an impact on Beethoven's styles, we start from a perspective of composition raw materials, namely the basic properties and distributions of pitches and chords, trying to find cogent evidence for or against it. 
 
 ## Concepts and Data 
 
@@ -29,9 +38,8 @@ Because the causations of such transformations could be tangled, we only use his
 
 ## References
 
+ - Cuthbert, M. S. and Ariza, C. (2010) ‘music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data’, p. 7.
  - Holmes, J. A. (2017) ‘Expert Listening beyond the Limits of Hearing: Music and Deafness’, *Journal of the American Musicological Society*, 70(1), pp. 171–220. doi: 10.1525/jams.2017.70.1.171.
  - Liu, L. *et al.* (2013) ‘A Statistical Physics View of Pitch Fluctuations in the Classical Music from Bach to Chopin: Evidence for Scaling’, *PLoS ONE*. Edited by D. Abbott, 8(3), p. e58710. doi: 10.1371/journal.pone.0058710.
  - Saccenti, E., Smilde, A. K. and Saris, W. H. M. (2011) ‘Beethoven’s deafness and his three styles’, *BMJ*, 343(dec20 3), pp. d7589–d7589. doi: 10.1136/bmj.d7589.
- - Vieira, V. *et al.* (2012) ‘Can the evolution of music be analyzed in a quantitative manner?’, *Journal of Statistical Mechanics: Theory and Experiment*, 2012(08), p. P08010. doi: 10.1088/1742-5468/2012/08/P08010.
  - White, C. W. and Quinn, I. (2016) ‘The Yale-Classical Archives Corpus’, *Empirical Musicology Review*, 11(1), p. 50. doi: 10.18061/emr.v11i1.4958.
-
